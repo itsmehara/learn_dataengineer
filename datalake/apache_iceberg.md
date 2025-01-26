@@ -1,5 +1,50 @@
+### Types of Data : Structured, Semi-Structured, and Unstructured Data
 
+#### **1. Structured Data**  
+Data that is highly organized, stored in rows and columns, and easily searchable in databases.
 
+1. Customer details in a CRM (e.g., name, email, phone number).  
+2. Sales transactions in an Excel sheet or SQL table.  
+3. Employee payroll information.  
+4. Inventory data in a warehouse system.  
+5. Banking transaction logs.  
+6. Sensor data from IoT devices (e.g., temperature, pressure).  
+7. Financial reports (balance sheets, P&L statements).  
+8. Flight schedules and ticket bookings.  
+9. Product catalogs with IDs and prices.  
+10. Hospital patient records (e.g., diagnoses, prescriptions).  
+
+---
+
+#### **2. Semi-Structured Data**  
+Data that has some organizational structure (e.g., tags or key-value pairs) but isn’t stored in traditional rows and columns.
+
+1. JSON files storing API responses (e.g., user data from a social media app).  
+2. XML files used for configuration (e.g., web application settings).  
+3. Email data (metadata like sender, receiver, subject + message content).  
+4. Log files from servers (e.g., Apache logs).  
+5. CSV files with missing or inconsistent columns.  
+6. HTML documents for web pages.  
+7. Sensor readings sent in key-value format.  
+8. NoSQL database entries (e.g., MongoDB documents).  
+9. Configuration files for applications.  
+10. YAML files used in DevOps pipelines.  
+
+---
+
+#### **3. Unstructured Data**  
+Data that doesn’t follow a predefined model or format and is often difficult to process with traditional tools.
+
+1. Images (e.g., photos, X-rays, CT scans).  
+2. Videos (e.g., YouTube content, surveillance footage).  
+3. Audio files (e.g., music, podcasts, voice recordings).  
+4. Freeform text documents (e.g., Word docs, PDFs).  
+5. Social media posts (e.g., tweets, Instagram captions).  
+6. Chat transcripts from customer support.  
+7. Scientific research papers.  
+8. Satellite imagery and maps.  
+9. Raw log files with no clear structure.  
+10. Scanned handwritten notes.  
 
 ------
 
