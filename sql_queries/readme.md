@@ -1,5 +1,6 @@
 An exhaustive list of SQL topics to achieve expert-level SQL query skills. 
-You can structure your learning and note-taking around these topics, including detailed explanations, examples, and real-world scenarios.
+
+We can structure our learning and note-taking around these topics, including detailed explanations, examples, and real-world scenarios.
 
 ---
 
